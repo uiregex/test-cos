@@ -1,4 +1,4 @@
-# It is work for FREE (don't do it)
+# Don't do it
 
 Welcome to the CarOnSale Web Frontend Coding Challenge.
 
